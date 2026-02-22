@@ -53,7 +53,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
   </a>
   <a href="https://jwt.io" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/jsonwebtoken/jsonwebtoken-icon.svg" 
+  <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/4/jwt-icon-138bxvrhijus263d2f2wur.png/jwt-icon-aqjx58uyj3lrxtborzgyg.png?_a=DATAiZAAZAA0" 
        alt="JWT" width="40" height="40"/>
 </a>
 
