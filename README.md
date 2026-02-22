@@ -1,10 +1,6 @@
 <h1 align="center">Hi, I'm OMUR FARUK</h1>
 <h3 align="center">A passionate Web developer from Bangladesh</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=nayembabu&label=Profile%20views&color=0e75b6&style=flat" alt="nayembabu" />
-</p>
-
 - 👨‍💻 All of my projects are available at [https://github.com/omur-faruk39](https://github.com/omur-faruk39)
 - 💬 Ask me about **EXPRESS, REACT, MYSQL**
 - 📫 How to reach me **omurfaruk39bd@gmail.com**
